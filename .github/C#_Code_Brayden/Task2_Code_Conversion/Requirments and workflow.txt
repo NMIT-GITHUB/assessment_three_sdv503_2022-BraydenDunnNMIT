@@ -1,0 +1,14 @@
+"Task Two - Rewrite an executable program from JavaScript to C#: In your assessment 3 
+repository you will find an executable JavaScript code in the index.js file with 
+a specific outcome, your task is to rewrite the same JavaScript program with C# using Visual Studio 2022
+andachieve the same outcome."
+
+Requirements and rough idea om how to go about the task.
+
+1. Figure out the layout for how I want the converted code to be output.
+2. create the arrays that will be manipulated.
+3. create array management function and output the array to console. 
+4. work out how many elements are in each array
+5. List the maxiumum values in each array one two and three.
+6. put the highest 3 elements of each array into one console.writeline array and output that to console.
+
