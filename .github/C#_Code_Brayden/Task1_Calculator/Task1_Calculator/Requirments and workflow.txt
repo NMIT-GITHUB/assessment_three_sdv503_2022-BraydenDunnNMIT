@@ -1,0 +1,25 @@
+"You will create a set of Math operators (+, -, /, *,pow and remainder) by getting the TWO input numbers
+from the user and printing out the result on the command windows in MS Visual Studio 2022 community,
+each Math operator result must be printed in a different background and foreground color."
+
+Requirements and rough idea on how to go about it.
+
+1. Figure rough layout for the calculator.
+2. Declare the variables in the main function
+3. introduce what the console application is and what it does.
+4. sort out the console 'gui' layout
+5. Work out how to do the maths for the calculations.
+6. sort out how the user chooses what numerical manipulation method they want
+7. make it so you can have strings as well as the number choosen i.e 1 (add) and also able to type the word 'Add' 
+to add.
+8. Sort the calculations into a switch statement with individual cases containing the seperate mathmatic code.
+9. output the values of the numbers added manipulated into the console and have the console print the
+seperate manipulation methods in differnt colours as per the rubric.
+10. Have the console state that the calculation is finished and the program must be relaunched to do another 
+calculation. 
+
+
+Steps 1 through to 10 are complete and functioning. 
+
+Final notes - Could have made the interface easier to understand and had the Notes dissapear after the calculation
+writelines started to happen. 

@@ -135,4 +135,4 @@ switch (Console.ReadLine())
 //End of the calculator user input. Nothing for the user to do anymore.
 Console.WriteLine();
 Console.Write("Task completed successfully. Please re-launch for further calculations. ");
-Console.ReadKey();
+
